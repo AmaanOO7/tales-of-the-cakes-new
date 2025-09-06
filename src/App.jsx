@@ -1,4 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
+import Testimonials from './components/Testimonials'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import BackToTop from './components/BackToTop'
@@ -19,6 +20,7 @@ export default function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
+      <Testimonials />
       <Footer />
       <BackToTop />
     </div>
