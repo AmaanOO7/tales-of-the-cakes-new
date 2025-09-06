@@ -1,6 +1,6 @@
 const testimonials = [
   { id:1, name:'Ananya Sharma', text:'The cakes are absolutely amazing! So soft and delicious.'},
-  { id:2, name:'Rohit Verma', text:'Beautifully decorated cakes and perfect for every occasion.'},
+  { id:2, name:'Pihu Verma', text:'Beautifully decorated cakes and perfect for every occasion.'},
   { id:3, name:'Priya Reddy', text:'Fast delivery, fresh cakes, and incredible taste!'}
 ]
 
